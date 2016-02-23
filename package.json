@@ -1,0 +1,12 @@
+{
+  "name": "ColourChallenge",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "react-native": "^0.20.0",
+    "react-native-store": "^0.4.1"
+  }
+}
